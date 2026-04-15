@@ -1,2 +1,199 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PSU Research</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="https://psuca.edu/">Pacific States University</a>
+
+      <nav class="main-nav">
+        <ul>
+          <li><a class="nav-btn" href="#publications">Research</a></li>
+          <li><a class="nav-btn" href="#research-team">Members</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="hero">
+      <div class="container hero-inner">
+        <div class="hero-copy">
+          <h1>Welcome to Pacific States University Research Portal</h1>
+          <p class="lead">Small University. Strong Research.</p>
+        </div>     
+    </section>
+
+    
+
+
+    <!--Section to Add Papers-->
+  <section id="publications" class="publications-section">
+    <h2>Research Publications</h2>
+    <!--Paper Card-->
+    <a class="pub-card" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B9-vdCgAAAAJ&authuser=3&citation_for_view=B9-vdCgAAAAJ:HbR8gkJAVGIC" target="_blank">
+      <div class="pub-info">
+        <h3>Rethinking Requirement Analysis for AI-Based Projects</h3>
+        <span class="pub-type">Peer-Reviewed Publication</span>
+      </div>
+      <div class="pub-meta">
+        <span class="ext">↗</span>
+      </div>
+    </a>
+
+    <a class="pub-card" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8FXgDAkAAAAJ&citation_for_view=8FXgDAkAAAAJ:_kc_bZDykSQC" target="_blank">
+      <div class="pub-info">
+        <h3>AI-Driven Chatbots and Virtual Assistants</h3>
+        <span class="pub-type">Peer-Reviewed Publication</span>
+      </div>
+      <div class="pub-meta">
+        <span class="ext">↗</span>
+      </div>
+    </a>
+
+    <a class="pub-card" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8FXgDAkAAAAJ&citation_for_view=8FXgDAkAAAAJ:Y0pCki6q_DkC" target="_blank">
+      <div class="pub-info">
+        <h3>Edge Computing in Cloud Computing</h3>
+        <span class="pub-type">Peer-Reviewed Publication</span>
+      </div>
+      <div class="pub-meta">
+        <span class="ext">↗</span>
+      </div>
+    </a>
+
+    <a class="pub-card" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B9-vdCgAAAAJ&authuser=3&citation_for_view=B9-vdCgAAAAJ:xtoqd-5pKcoC" target="_blank">
+      <div class="pub-info">
+        <h3>BERT-Based Fake News Detection: A Transformer-Driven Approach for Misinformation Classification on Twitter</h3>
+        <span class="pub-type">Peer-Reviewed Publication</span>
+      </div>
+      <div class="pub-meta">
+        <span class="ext">↗</span>
+      </div>
+    </a>
+
+    <a class="pub-card" href="https://aircconline.com/ijgca/V16N3/16325ijgca01.pdf" target="_blank">
+      <div class="pub-info">
+        <h3>Benefits of Software Engineering Development with ChatGPT</h3>
+        <span class="pub-type">Peer-Reviewed Publication</span>
+      </div>
+      <div class="pub-meta">
+        <span class="ext">↗</span>
+      </div>
+    </a>
+
+    <a class="pub-card" href="https://aircconline.com/ijgca/V16N3/16325ijgca02.pdf" target="_blank">
+      <div class="pub-info">
+        <h3>Big Data Analytics for Supply Chain Management</h3>
+        <span class="pub-type">Peer-Reviewed Publication</span>
+      </div>
+      <div class="pub-meta">
+        <span class="ext">↗</span>
+      </div>
+    </a>
+
+    <a class="pub-card" href="https://aircconline.com/ijgca/V16N2/16225ijgca01.pdf" target="_blank">
+      <div class="pub-info">
+        <h3>Personalization and Recommendation Systems: Leveraging Machine Learning Algorithms to Offer Personalized Product Recommendations and Content Based on User Behavior</h3>
+        <span class="pub-type">Peer-Reviewed Publication</span>
+      </div>
+      <div class="pub-meta">
+        <span class="ext">↗</span>
+      </div>
+    </a>
+
+    <a class="pub-card" href="https://aircconline.com/ijgca/V16N2/16225ijgca03.pdf" target="_blank">
+      <div class="pub-info">
+        <h3>Voice Commerce (V-Commerce): Exploring the Integration of Voice Assistants in Online Shopping</h3>
+        <span class="pub-type">Peer-Reviewed Publication</span>
+      </div>
+      <div class="pub-meta">
+        <span class="ext">↗</span>
+      </div>
+    </a>
+  </section>
+
+<section id="research-team" class="team-section">
+  <h2>Research Team</h2>
+
+  <div class="team-groups">
+
+    <!-- GROUP 1 -->
+    <div class="team-card">
+      <a class="team-member" href="https://scholar.google.com/citations?user=B9-vdCgAAAAJ&hl=en" target="_blank">Roise Uddin</a>
+      <div class="team-member">Ibtisum Ahmed Nihal</div>
+     <a class="team-member" href="https://scholar.google.com/citations?hl=en&user=DnirYagAAAAJ" target="_blank">Mohammad Mahmudur Rahman</a>
+      <div class="team-member">Soyoung Jang</div>
+      <div class="team-member">Tarin Afrose Tithe</div>
+      <div class="team-member">Sumaiya Arif</div>
+      <div class="team-member">Debabrata Biswas</div>
+    </div>
+
+    <!-- GROUP 2 -->
+    <div class="team-card">
+       <a class="team-member" href="https://scholar.google.com/citations?hl=en&user=tNMgGc8AAAAJ" target="_blank">HIMEL HEMAYET UDDIN</a>
+      <div class="team-member">Pritom Das</div>
+      <div class="team-member">Marjia Rahman</div>
+      <div class="team-member">MD Nafis Azad Nobel</div>
+      <div class="team-member">Seungwon Kim</div>
+      <div class="team-member">Parvati Bhardwaj</div>
+    </div>
+
+    <!-- GROUP 3 -->
+    <div class="team-card">
+      <div class="team-member">Yearanoor Khan</div>
+      <div class="team-member">Mohammad Sikder</div>
+      <div class="team-member">Hamim Islam Hellol</div>
+      <div class="team-member">Sunyong Lee</div>
+      <a class="team-member" href="https://scholar.google.com/citations?hl=en&user=X8kPoHAAAAAJ" target="_blank">Md Shahnawaj</a>
+      <div class="team-member">Mainuddin Adel Raf</div>
+    </div>
+    
+    <!-- GROUP 4 -->
+    <div class="team-card">
+      <a class="team-member" href="https://scholar.google.com/citations?hl=en&user=2O1BPPAAAAAJ" target="_blank">Hossain Ahmed</a>
+      <a class="team-member" href="https://scholar.google.com/citations?hl=en&user=sfvW_g4AAAAJ" target="_blank">Shahadat Hossain</a>
+       <a class="team-member" href="https://scholar.google.com/citations?hl=en&user=OA7Nk44AAAAJ" target="_blank">MD SAHRIA JAMAN SHAZIB</a>
+      <div class="team-member">Muhim Bepari</div
+    </div>
+
+  </div>
+</section>
+
+
+</main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      
+      <div class="footer-col">
+        <h4>Contact Us</h4>
+        <ul class="social">
+          <li><a>admissions@psuca.edu</a></li>
+          <li><a>tel:(323)731-2383</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+  <style id="styles-placeholder"></style>
+  <script id="script-placeholder"></script>
+
+</body>
+
+</html>
+
+
 # Roiseuddin
 hello world 
